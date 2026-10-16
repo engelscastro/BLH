@@ -1,0 +1,6 @@
+{
+  "name": "Banco de Leite Humano - MESM / UNCISAL",
+  "description": "Sistema de Triagem Clínica rBLH, Captação de Doadoras e Gestão de Rotas de Coleta da Maternidade Escola Santa Mônica (UNCISAL)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
